@@ -1,0 +1,21 @@
+
+.ant-row{
+    padding-top: 100px;
+}
+.avtPersonal{
+    
+    .customizeLink{
+        font-size: 1.75rem;
+        color: #141414;
+        font-weight: 600;
+        :hover{
+            color:#d48806;
+        }
+        ~ .ant-typography{
+            font-style:italic;
+          
+        }
+    }
+
+    
+}   
